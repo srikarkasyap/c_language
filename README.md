@@ -1,4 +1,4 @@
-# c_language
+# C Language Tutorials
 C Programs
 
 ## To Run the Programs
